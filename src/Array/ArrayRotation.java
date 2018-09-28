@@ -29,5 +29,5 @@ public class ArrayRotation {    // pascal case
         }
         
         
-       } // main function ends
-       } // Class arrayRotation ends
+       } 
+       } 
